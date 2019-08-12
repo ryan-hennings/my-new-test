@@ -1,42 +1,9 @@
 {
-  "bp/": {
-    "sync": {
-      "system_type": "model_manager",
-      "subcomponent_type": "models",
-      "system": "modelmanager"
-    }
-  },
   "": {
     "bp/": 1557950927.7404234,
     "bp/requirements.txt": 1557950927.7695174,
     "bp/my_utils.py": 1557950927.8139865,
     "bp/train.ipynb": 1557950927.847845,
     "bp/test.ipynb": 1557950927.87591
-  },
-  "bp/requirements.txt": {
-    "sync": {
-      "system_type": "model_manager",
-      "subcomponent_type": "environments",
-      "part": "environment",
-      "system": "modelmanager"
-    }
-  },
-  "bp/my_utils.py": {
-    "sync": {
-      "system_type": "model_manager",
-      "subcomponent_type": "resources",
-      "part": "module",
-      "system": "modelmanager"
-    }
-  },
-  "bp/train.ipynb": {
-    "sync": {
-      "part": "training"
-    }
-  },
-  "bp/test.ipynb": {
-    "sync": {
-      "part": "prediction"
-    }
   }
 }
